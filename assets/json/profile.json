@@ -1,0 +1,21 @@
+{
+  "name": "Alfredo Calzoni",
+  "nationality": "Tunis",
+  "location": "Tunis",
+  "age": "22 years",
+  "types": "Normal , Mesyar , Polygamy",
+  "bio": "A good listener. I love having a good talk to know each other side 😁.",
+  "moreInfo": "A good listener. I love having a good talk to know each other side 😁.",
+  "socialIcons": [
+    "assets/images/instagram_icon.png",
+    "assets/images/telegram_icon.png",
+    "assets/images/bb_icon.png"
+  ],
+  "personalInfo": [
+    { "Length / Weight": "169 cm / 70 Kg" },
+    { "Skin Color": "Light" },
+    { "Marital Status": "Single" },
+    { "Religion": "Muslim" },
+    { "Education": "Bachelor's" }
+  ]
+}

@@ -1,0 +1,10 @@
+[
+  {
+    "imgPath": "assets/images/image_in_my_photos.png",
+    "hidden": false
+  },
+  {
+    "imgPath": "assets/images/image_in_my_photos.png",
+    "hidden": true
+  }
+]

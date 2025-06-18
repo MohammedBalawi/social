@@ -1,0 +1,20 @@
+{
+  "Notifications": [
+    {
+      "title": "New user added you to his fav list",
+      "time": "12:22",
+      "date": "Today",
+      "isNew": true
+    },
+    {
+      "title": "Old notification message example",
+      "time": "10:05",
+      "date": "Today"
+    },
+    {
+      "title": "Big old notification content for testing design",
+      "time": "09:30",
+      "date": "22/12/2025"
+    }
+  ]
+}

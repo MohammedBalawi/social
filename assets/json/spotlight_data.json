@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Best Seller",
+    "subtitle": "2 Spotlights for just 7.51",
+    "image": "assets/images/spotlight_best.png"
+  },
+  {
+    "title": "Popular",
+    "subtitle": "1 Spotlight for 3.99",
+    "image": "assets/images/spotlight_popular.png"
+  },
+  {
+    "title": "Trending",
+    "subtitle": "3 Spotlights for 10.99",
+    "image": "assets/images/spotlight_trending.png"
+  }
+]

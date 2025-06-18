@@ -1,0 +1,35 @@
+{
+  "userPlan": {
+    "planName": "Golden",
+    "daysRemaining": "45"
+  },
+  "plans": [
+    {
+      "title": "Silver",
+      "days": "30",
+      "months": "1 month",
+      "weeklyPrice": "5.00",
+      "fullPrice": "120 Dirham (33 USD)",
+      "saving": "Saving -30 Dirham",
+      "isSpecial": false
+    },
+    {
+      "title": "Golden",
+      "days": "90",
+      "months": "3 months",
+      "weeklyPrice": "6.00",
+      "fullPrice": "180 Dirham (49 USD)",
+      "saving": "Saving -60 Dirham",
+      "isSpecial": true
+    },
+    {
+      "title": "Diamond",
+      "days": "150",
+      "months": "5 months",
+      "weeklyPrice": "7.51",
+      "fullPrice": "202 Dirham (55 USD)",
+      "saving": "Saving -178 Dirham",
+      "isSpecial": false
+    }
+  ]
+}

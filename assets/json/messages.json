@@ -1,0 +1,30 @@
+{
+  "inbox": [
+    {
+      "username": "Alya Hassan",
+      "date": "02/02/2025 05:22",
+      "isOnline": true,
+      "isNewMessage": true
+    },
+    {
+      "username": "Mohammed Yousef",
+      "date": "02/02/2025 03:00",
+      "isOnline": false,
+      "isNewMessage": false
+    }
+  ],
+  "outbox": [
+    {
+      "username": "Salma Ali",
+      "date": "01/02/2025 10:30",
+      "isOnline": true,
+      "isNewMessage": false
+    },
+    {
+      "username": "Rami Ahmed",
+      "date": "01/02/2025 09:00",
+      "isOnline": false,
+      "isNewMessage": true
+    }
+  ]
+}

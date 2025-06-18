@@ -1,0 +1,52 @@
+[
+  {},
+  [
+    {
+      id: 8661,
+      FromID: 3960,
+      MSGBody: 1,
+      SentDate: 1734638815,
+      ReadStatus: 1,
+      SentDateLine: "",
+      AttachedFile:,
+      FileType:
+    },
+    {
+      id: 8662,
+      FromID: 3960,
+      MSGBody: 2,
+      SentDate: 1734638816,
+      ReadStatus: 1,
+      SentDateLine:,
+      AttachedFile:,
+      FileType:
+    },
+    {
+      id: 8663,
+      FromID: 3960,
+      MSGBody: 3,
+      SentDate: 1734638817,
+      ReadStatus: 1,
+      SentDateLine:,
+      AttachedFile:,
+      FileType:
+    },
+    {
+      id: 8664,
+      FromID: 3960,
+      MSGBody: 4,
+      SentDate: 1734638821,
+      ReadStatus: 1,
+      SentDateLine: 19/12/2024,
+      AttachedFile:,
+      FileType:
+    }
+  ],
+  8661,
+  1,
+  {
+    WithUserName: متفائل,
+    WithProfileImage: https
+    ://care4dental.com/marriagetest/Apps/Layout/MainSection/ztheme/Images/Default/Medium/Man.png, WithUserID: 3960, MeProfileImage: https://care4dental.com/marriagetest/Apps/Layout/MainSection/ztheme/Images/Default/Small/Woman.png, YesAdmin: 0, IbannedHim: 0
+  }
+]

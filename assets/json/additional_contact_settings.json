@@ -1,0 +1,20 @@
+{
+  "contact_settings": {
+    "confirm_email": false,
+    "confirm_phone": false,
+    "show_email": true,
+    "facebook": true,
+    "twitter": true,
+    "instagram": true,
+    "skype": true,
+    "telegram": true,
+    "bb": true,
+    "snapchat": true,
+    "social_apps": {
+      "whatsapp": true,
+      "viber": true,
+      "tango": false,
+      "wechat": false
+    }
+  }
+}
